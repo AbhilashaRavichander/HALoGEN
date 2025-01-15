@@ -1,0 +1,13 @@
+torch
+transformers
+numpy
+pandas
+jsonlines
+nltk
+factscore
+requests
+spacy
+together
+openai==0.28
+spacy
+pyyaml

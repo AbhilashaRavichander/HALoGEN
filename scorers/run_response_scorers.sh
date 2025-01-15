@@ -1,0 +1,6 @@
+python code_scorer.py
+python bio_scorer.py
+python rationalization_scorer_binary.py
+python rationalization_scorer_numerical.py
+python summarization_scorer.py
+python simplification_scorer.py
