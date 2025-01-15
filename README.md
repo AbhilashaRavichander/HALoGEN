@@ -2,7 +2,7 @@
 
 This repository provides the code and data of [HALOGEN🔦: Fantastic LLM Hallucinations and Where to Find Them](#) by *Abhilasha Ravichander, *Shrusti Ghela, David Wadden, and Yejin Choi
 
-[Website](https://halogen-hallucinations.github.io/) |  [Paper](https://arxiv.org/abs/2501.08292) | [HALoGEN prompts](https://github.com/AbhilashaRavichander/HALoGEN/prompts) |  [LLM Hallucinations](https://github.com/AbhilashaRavichander/HALoGEN/model_hallucinations) | [Decomposers and Verifiers](https://github.com/AbhilashaRavichander/HALoGEN/verifiers) | [Scoring Functions](https://github.com/AbhilashaRavichander/HALoGEN/verifiers)(see the following codebase)
+[Website](https://halogen-hallucinations.github.io/) |  [Paper](https://arxiv.org/abs/2501.08292) | [HALoGEN prompts](https://github.com/AbhilashaRavichander/HALoGEN/tree/main/prompts) |  [LLM Hallucinations](https://github.com/AbhilashaRavichander/HALoGEN/tree/main/model_hallucinations) | [Decomposers and Verifiers](https://github.com/AbhilashaRavichander/HALoGEN/tree/main/verifiers) | [Scoring Functions](https://github.com/AbhilashaRavichander/HALoGEN/tree/main/scorers)(see the following codebase)
 
 ## Overview
 
@@ -58,7 +58,7 @@ If you have any questions, please feel free to email us at **aravicha[AT]cs.wash
 
 ## Announcements
 
-**Jan 13, 2025:** Our evaluator for scientific references uses an API that is internal to Semantic Scholar. We will release this evaluator when this API becomes publicly available. In the meantime, we have implemented a evaluator that uses the public API which is available here, but we found that this evaluator identifies more references as hallucinated compared to our private implementation. We also provide the references that are flagged as hallucinations by the internal API [here](https://github.com/AbhilashaRavichander/HALoGEN-private-staging/tree/main/model_hallucinations/references).
+**Jan 13, 2025:** Our evaluator for scientific references uses an API that is internal to Semantic Scholar. We will release this evaluator when this API becomes publicly available. In the meantime, we have implemented a evaluator that uses the public API which is available here, but we found that this evaluator identifies more references as hallucinated compared to our private implementation. We also provide the references that are flagged as hallucinations by the internal API [here](https://github.com/AbhilashaRavichander/HALoGEN/tree/main/model_hallucinations/references).
 
 
 **Jan 13, 2025:** We use the TogetherAI implementation of LLama-2-70B for the verifiers. This has since been deprecated, so please run the model locally if you need to match the results in our draft. This repository uses the TogetherAI implementation of Llama-3-70B instead.
