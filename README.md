@@ -79,7 +79,7 @@ python -m spacy download en_core_web_sm
 You can find the prompts for all categories [here](https://github.com/AbhilashaRavichander/HALoGEN/tree/main/prompts). 
 * Prompts for each task are in the associated prompt_\<TASK NAME\> file, under the `"prompts"` columnn. 
 * Additionally for the historical events task, we also include metadata such as the birth and death dates of the entities mentioned in the prompt.
-* If you would prefer to use huggingface datasets to load halogen prompts, you can do 
+* If you would prefer to use huggingface datasets to load halogen prompts, you can do so [here](https://huggingface.co/datasets/lasha-nlp/HALoGEN-prompts).
 
 ## HALoGEN Responses
 
