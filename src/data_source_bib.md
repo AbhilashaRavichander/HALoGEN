@@ -1,4 +1,4 @@
-# Biograpies
+# Biographies
 
   ```bibtex
     @inproceedings{min-etal-2023-factscore,
