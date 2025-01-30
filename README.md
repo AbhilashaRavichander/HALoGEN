@@ -42,17 +42,9 @@ This repository contains resources related to 🔦HALoGEN, a diverse multi-domai
   ```
 
 
-  -> If you use the rationalization (binary) evaluation, please also cite,
+Besides this, we use various kinds of seed data to construct prompts. Depending on the category, please also cite the source for the seed data if mentioned [here](https://github.com/AbhilashaRavichander/HALoGEN/blob/main/src/data_source_bib.md).
   
 
-  ```bibtex
-  @article{zhang2023language,
-    title={How language model hallucinations can snowball},
-    author={Zhang, Muru and Press, Ofir and Merrill, William and Liu, Alisa and Smith, Noah A},
-    journal={ICML},
-    year={2024}
-  }
-  ```
 
 If you have any questions, please feel free to email us at **aravicha[AT]cs.washington.edu**, **shrustighela1[AT]gmail.com**.
 
