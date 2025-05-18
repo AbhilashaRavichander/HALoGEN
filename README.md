@@ -14,14 +14,11 @@ This repository contains resources related to 🔦HALoGEN, a diverse multi-domai
 :star::star:  If you use any of our data, verifiers, or evaluations, please consider citing our work :star::star:  :
 
 ```bibtex
-@misc{ravichander2025halogenfantasticllmhallucinations,
-      title={HALoGEN: Fantastic LLM Hallucinations and Where to Find Them}, 
-      author={Abhilasha Ravichander and Shrusti Ghela and David Wadden and Yejin Choi},
-      year={2025},
-      eprint={2501.08292},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2501.08292}, 
+@article{ravichander2025halogen,
+  title={HALoGEN: Fantastic LLM Hallucinations and Where to Find Them},
+  author={Ravichander, Abhilasha and Ghela, Shrusti and Wadden, David and Choi, Yejin},
+  journal={arXiv preprint arXiv:2501.08292},
+  year={2025}
 }
 ```
 
